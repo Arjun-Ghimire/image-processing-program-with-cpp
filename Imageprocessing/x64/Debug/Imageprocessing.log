@@ -1,0 +1,3 @@
+﻿  readimage.cpp
+C:\cpp_project\imageprocessing\build\Imageprocessing\Imageprocessing\readimage.cpp(10,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Imageprocessing.vcxproj -> C:\cpp_project\imageprocessing\build\Imageprocessing\x64\Debug\Imageprocessing.exe
